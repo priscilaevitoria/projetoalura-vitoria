@@ -10,3 +10,8 @@ h1{
     background-color: white;
 }
 
+h2{
+background-color: black;
+font-size: 24pt;
+font-family: 'Courier New', Courier, monospace;
+}
